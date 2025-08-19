@@ -1,0 +1,271 @@
+{
+	"title": {
+		"media": {
+			"url": "https://imageio.forbes.com/specials-images/imageserve/60b13f395e70ff270e5f6bc0/Arthur-Samuel-and-his-checkers-playing-IBM-computer-in-1956/960x0.jpg?height=350&width=620&fit=bounds",
+			"caption": "English mathematician Arthur Samuel created a computer learning program for playing championship-level computer checkers, which was created for play on the IBM 701. ",
+			"credit": "https://www.forbes.com/sites/gilpress/2021/05/28/on-thinking-machines-machine-learning-and-how-ai-took-over-statistics/</a>"
+		},
+		"text": {
+			"headline": "ARTHUR SAMUEL<br/> 1952",
+			"text": "<p>He initiated alpha-beta pruning, a design that measures each side’s chances to win. This computer program chooses its next move using a minimax algorithm, which calculates the best possible move for a player in a game by minimizing the opponent’s maximum gain and maximizing the player’s minimum gain.</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "https://www.ibm.com/adobe/dynamicmedia/deliver/dm-aid--c57d1ab1-6757-412a-8139-d606a0da6074/5322-as-playingcheckers.jpg?preferwebp=true&width=320",
+				"caption": "Arthur Samuel with his checker created with machine learning.",
+				"credit": "https://www.ibm.com/adobe/dynamicmedia/deliver/dm-aid--c57d1ab1-6757-412a-8139-d606a0da6074/5322-as-playingcheckers.jpg?preferwebp=true&width=320</a>"
+			},
+			"start_date": {
+				"month": "1",
+				"day": "11",
+				"year": "1956"
+			},
+			"text": {
+				"headline": "A timeline about Machine Learning",
+				"text": "<p>Machine learning has evolved significantly since its inception in the 1940s, with early concepts rooted in neural networks and mathematical models. Key milestones include Arthur Samuel's checkers program in the 1950s and advancements in deep learning, shaping the field into what it is today.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/lY1SELMvoVs?si=pe0waVVguMH5vKfB",
+				"caption": "Checkers - (1956) - First artificial intelligence game!",
+				"credit": "<a href=\"https://youtu.be/T_IsYnRGNls?si=PhbhCD6lgK81MCep</a>"
+			},
+			"start_date": {
+				"year": "1950"
+			},
+			"text": {
+				"headline": "A Brief History Of Machine Learning",
+				"text": "The concept of machines thinking goes back centuries, but the modern history of machine learning began in the mid-20th century. Machine learning (ML) is a subfield of artificial intelligence (AI) that focuses on building systems that can learn from and make decisions or predictions based on data, without being explicitly programmed. "
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/Suevq-kZdIw?si=LXLsZqFbOgWXYbbG",
+				"caption": "The Man who forever changed Artificial Intelligence",
+				"credit": "Sebastian Schuchmann"
+			},
+			"start_date": {
+				"year": "1957"
+			},
+			"text": {
+				"headline": "1957 – The Perceptron",
+				"text": "The psychologist Frank Rosenblatt attempted to build “the first machine capable of producing an original idea” and subsequently designed the Perceptron, the first neural network ever produced."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/-Xl2c91pWGc?si=RT-_47ZbnTFe0q2Q, https://www.automate.org/robotics/engelberger/joseph-engelberger-unimate",
+				"caption": "First Industrial Robot Ever Installed on an Assembly Line | Innovation Nation",
+				"credit": "The Henry Ford"
+			},
+			"start_date": {
+				"year": "1961"
+			},
+			"text": {
+				"headline": "Unimate:First industrial robot",
+				"text": "The introduction of Unimate by George Devol and later commercialized by the company Unimation in 1961 was a pivotal moment in the history of robotics and artificial intelligence. It not only showcased the potential of industrial robots but also highlighted the importance of AI in enhancing automation. This innovation laid the foundation for the rapid advancements in robotics that continue to shape industries and society today."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtube.com/shorts/jFbooDJo58Y?si=Zgm_cOXbUg87SbcX", 
+				"caption": "Stanford cart which pivots the evolution of self-driving cars.",
+				"credit": "Infinite Tech Saga"
+			},
+			"start_date": {
+				"year": "1979"
+			},
+			"text": {
+				"headline": "Stanford Cart: The mobile robot with AI.",
+				"text": "The Stanford Cart was a long-term research project undertaken at Stanford University between 1960 and 1980. In 1979, it successfully crossed a room on its own while navigating around a chair placed as an obstacle. Hans Moravec rebuilt the Stanford Cart in 1977, equipping it with stereo vision. A television camera, mounted on a rail on the top of the cart, took pictures from several different angles and relayed them to a computer."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/m3-hY-hlhBg",
+				"caption": "The 'How Will I Know' video showcases the youthful energy that boosted Houston to stardom.",
+				"credit": "Arista Records Inc."
+			},
+			"start_date": {
+				"year": "1996"
+			},
+			"text": {
+				"headline": "IBM's Deep Blue ",
+				"text": "IBM's Deep Blue defeats chess champion Kasparov in a game (first match in 1996), showing AI strength."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/v0XuiMX1XHg",
+				"caption": "Dionne Warwick gleefully announces cousin, Whitney Houston, the winner of the Best Female Pop Vocal Performance for the song Saving All My Love.",
+				"credit": "<a href='http://grammy.org'>The Recording Academy</a>"
+			},
+			"start_date": {
+				"year": "1986"
+			},
+			"text": {
+				"headline": "'The Grammys'",
+				"text": "In 1986 Houston won her first Grammy for the song Saving All My Love. In total she has won six Grammys, the last of which she won in 1999 for It's Not Right But It's Okay."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/eH3giaIzONA",
+				"caption": "I Wanna Dance With Somebody",
+				"credit": "Arista Records Inc."
+			},
+			"start_date": {
+				"year": "1987"
+			},
+			"text": {
+				"headline": "'Whitney'",
+				"text": "Multiplatinum second album sells more than 20 million copies worldwide. With 'Whitney', Houston became the first female artist to produce four number 1 singles on one album including \"I Wanna Dance With Somebody,' 'Didn't We Almost Have It All,' 'So Emotional' and 'Where Do Broken Hearts Go.'"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/96aAx0kxVSA",
+				"caption": "\"One Moment In Time\" - Theme song to the 1988 Seoul Olympics",
+				"credit": "Arista Records Inc."
+			},
+			"start_date": {
+				"year": "1988"
+			},
+			"text": {
+				"headline": "\"One Moment In Time\"",
+				"text": "The artist's fame continues to skyrocket as she records the theme song for the Seoul Olympics, 'One Moment In Time.'"
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1989"
+			},
+			"text": {
+				"headline": "Bobby Brown",
+				"text": "Houston and Brown first meet at the Soul Train Music Awards. In an interview with Rolling Stone Magazine, Houston admitted that it was not love at first sight. She turned down Brown's first marriage proposal but eventually fell in love with him."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/5Fa09teeaqs",
+				"caption": "CNN looks back at Houston's iconic performance of the national anthem at Superbowl XXV.",
+				"credit": "CNN"
+			},
+			"start_date": {
+				"year": "1991"
+			},
+			"text": {
+				"headline": "Super Bowl",
+				"text": "Houston's national anthem performance captures the hearts and minds of Americans ralllying behind soldiers in the Persian Guf War."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/h9rCobRl-ng",
+				"caption": "\"Run To You\" from the 1992 \"Bodyguard\" soundtrack..",
+				"credit": "Arista Records"
+			},
+			"start_date": {
+				"year": "1992"
+			},
+			"text": {
+				"headline": "\"The Bodyguard\"",
+				"text": "Houston starred opposite Kevin Costner in the box office hit, The Bodyguard. The soundtrack to the movie sold over 44 million copies worldwide  garnering 3 Grammy's for the artist."
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/5cDLZqe735k",
+				"caption": "Bobby Brown performing \"My Prerogrative,\" from his \"Don't be Cruel\" solo album. Bobby Brown first became famous with the R&B group, New Edition.",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1992"
+			},
+			"text": {
+				"headline": "Married Life",
+				"text": "<p>After three years of courtship, Houston marries New Edition singer Bobby Brown. Their only child Bobbi Kristina Brown was born in 1993.</p><p>In 2003 Brown was charged with domestic violence after police responded to a domestic violence call. Houston and Brown were featured in the reality show, \"Being bobby Brown,\" and divorced in 2007.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//upload.wikimedia.org/wikipedia/commons/d/dd/ABC_-_Good_Morning_America_-_Diane_Sawyer.jpg",
+				"caption": "Diane Sawyer ",
+				"credit": "flickr/<a href='http://www.flickr.com/photos/23843757@N00/194521206/'>Amanda Benham</a>"
+			},
+			"start_date": {
+				"year": "2002"
+			},
+			"text": {
+				"headline": "Crack is Whack",
+				"text": "<p>Houston first publicly admitted to drug use in an interview with Diane Sawyer. The singer coined the term \"Crack is Whack,\" saying that she only used more expensive drugs.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://youtu.be/KLk6mt8FMR0",
+				"caption": "Addiction expert, Dr. Drew, talks about Whitney's death and her struggle with addiction.",
+				"credit": "CNN"
+			},
+			"start_date": {
+				"year": "2004"
+			},
+			"text": {
+				"headline": "Rehab",
+				"text": "<p>Houston entered rehab several times beginning in 2004. She declared herself drug free in an interview with Oprah Winfrey in 2009 but returned to rehab in 2011.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "2005"
+			},
+			"text": {
+				"headline": "Being Bobby Brown",
+				"text": "<p>Being Bobby Brown was a reality show starring Brown and wife Whitney Houston. Houston refused to sign for a second season. A clip of her telling Brown to \"Kiss my ass,\" became a running gag on The Soup.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "2010"
+			},
+			"text": {
+				"headline": "A Rocky Comeback",
+				"text": "<p>Houston's comeback tour is cut short due to a diminished voice damaged by years of smoking. She was reportedly devastated at her inability to perform like her old self.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "//twitter.com/Blavity/status/851872780949889024",
+				"caption": "Houston, performing on Good Morning America in 2009.",
+				"credit": "<a href='http://commons.wikimedia.org/wiki/File%3AFlickr_Whitney_Houston_performing_on_GMA_2009_4.jpg'>Asterio Tecson</a> via Wikimedia"
+			},
+			"start_date": {
+				"month": "2",
+				"day": "11",
+				"year": "2012"
+			},
+			"text": {
+				"headline": "Whitney Houston<br/> 1963-2012",
+				"text": "<p>Houston, 48, was discovered dead at the Beverly Hilton Hotel on  on Feb. 11, 2012. She is survived by her daughter, Bobbi Kristina Brown, and mother, Cissy Houston.</p>"
+			}
+		}
+	]
+}
